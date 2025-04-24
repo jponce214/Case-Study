@@ -1,5 +1,5 @@
-# Fetch-TakeHome
-Take home test for Fetch Senior Data Analyst Position Feb 2025. 
+# Case Study Practice
+Example CPG Case Study using SQL queries and python Visualizations. This examples takes into account 3 datasets. A Products dataset that has barcodes and heirarchy structure. A Transactions dataset that has recent transactions for the products listed in the Products dataset. Finally, a Users dataset that has each user assigned a unique ID where their demographics are stored.
 
 ## Part 1: Exploration
 
